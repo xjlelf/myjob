@@ -1,0 +1,108 @@
+2015-06-23 11:15:42 Error: [MissingViewException] View file "Api/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Api/index.ctp',
+)
+Request URL: /Api
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ApiController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-06-23 11:17:01 Error: [MissingViewException] View file "Api/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Api/index.ctp',
+)
+Request URL: /Api
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ApiController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-06-23 11:17:03 Error: [MissingViewException] View file "Api/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Api/index.ctp',
+)
+Request URL: /Api
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ApiController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-06-25 10:38:06 Error: [MissingControllerException] Controller class Extjs4Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Extjs4Controller',
+  'plugin' => NULL,
+)
+Request URL: /extjs4/app/config/constdefine.js?_dc=1435221486266
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-06-25 10:38:06 Error: [MissingControllerException] Controller class Extjs4Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Extjs4Controller',
+  'plugin' => NULL,
+)
+Request URL: /extjs4/app/config/constdefine.js?_dc=1435221486268
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-06-25 10:38:18 Error: [MissingControllerException] Controller class Extjs4Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Extjs4Controller',
+  'plugin' => NULL,
+)
+Request URL: /extjs4/app/config/constdefine.js?_dc=1435221498280
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-06-25 10:38:18 Error: [MissingControllerException] Controller class Extjs4Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Extjs4Controller',
+  'plugin' => NULL,
+)
+Request URL: /extjs4/app/config/constdefine.js?_dc=1435221498280
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-06-25 10:39:00 Error: [MissingControllerException] Controller class Extjs4Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Extjs4Controller',
+  'plugin' => NULL,
+)
+Request URL: /extjs4/app/controller/Welcome.js?_dc=1435221540730
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-06-25 10:39:00 Error: [MissingControllerException] Controller class Extjs4Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Extjs4Controller',
+  'plugin' => NULL,
+)
+Request URL: /extjs4/app/controller/Admin.js?_dc=1435221540730
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-06-25 11:19:09 Error: [MissingControllerException] Controller class GoodsController could not be found.
+Exception Attributes: array (
+  'class' => 'GoodsController',
+  'plugin' => NULL,
+)
+Request URL: /Goods
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-06-25 11:20:14 Error: [MissingControllerException] Controller class GoodsController could not be found.
+Exception Attributes: array (
+  'class' => 'GoodsController',
+  'plugin' => NULL,
+)
+Request URL: /goods
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/myjob/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
